@@ -1,0 +1,42 @@
+{
+   "CSK": {
+      "Name": "Chennai Super Kings",
+      "Home": "Chennai",
+      "Color": "#ffd966"
+   },
+   "DD": {
+      "Name": "Delhi  Daredevils",
+      "Home": "Delhi",
+      "Color": "#1c4587"
+   },
+   "KXIP": {
+      "Name": "Kings XI Punjab",
+      "Home": "Punjab",
+      "Color": "#e06666"
+   },
+   "KKR": {
+      "Name": "Kolkata Knight Raiders",
+      "Home": "Kolkata",
+      "Color": "#674ea7"
+   },
+   "MI": {
+      "Name": "Mumbai Indians",
+      "Home": "Mumbai",
+      "Color": "#6d9eeb"
+   },
+   "SRH": {
+      "Name": "Sunrisers Hyderabad",
+      "Home": "Hyderabad",
+      "Color": "#e69138"
+   },
+   "RCB": {
+      "Name": " Royal Challengers Bengalore",
+      "Home": "Bengaluru",
+      "Color": "#990000"
+   },
+   "RR": {
+      "Name": "Rajasthan Royals",
+      "Home": "Rajasthan",
+      "Color": "#4a86e8"
+   }
+}
